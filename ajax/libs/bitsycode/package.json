@@ -1,0 +1,10 @@
+{
+  "name": "BitsyCode",
+  "filename": "bitsycode.min.js",
+  "version": "1.0",
+  "description": "Bitsycode is the most versatile Javascript Library (JSL) for speeding up development",
+  "homepage": "http://www.bitsycode.com/",
+  "keywords": ["BitsyCode", ""bitsycode],
+  "license": "MIT",
+  "author": "Riaz Sabjee"
+}
