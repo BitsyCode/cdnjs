@@ -5,8 +5,8 @@
   "description": "Bitsycode is the most versatile Javascript Library (JSL) for speeding up development",
   "homepage": "http://www.bitsycode.com/",
   "keywords": [
-	  "BitsyCode", 
-	  "bitsycode"
+	"BitsyCode",
+	"bitsycode"
   ],
   "license": "MIT",
   "author": "Riaz Sabjee"
